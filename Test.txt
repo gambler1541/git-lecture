@@ -1,5 +1,0 @@
-Test1
-
-줄 추가
-
-git clone Test
